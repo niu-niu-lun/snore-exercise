@@ -1,0 +1,18 @@
+{
+  "name": "改善打鼾 — 舌头跟练",
+  "short_name": "舌头跟练",
+  "description": "每天5分钟舌头训练，改善打鼾",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0a0f",
+  "background_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
